@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
