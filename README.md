@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
