@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
