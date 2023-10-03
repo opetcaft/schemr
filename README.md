@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Fix Yolo 8.0.206 scale bug (#7821)
