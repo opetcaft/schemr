@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
