@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
