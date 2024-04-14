@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add Weights & Biases Docs integrations page (#7199)
