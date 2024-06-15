@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Fix xyxyxyxyn calculation in obb result (#8188)
