@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update CITATION.cff with cffinit corrections (#8658)
