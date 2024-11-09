@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
